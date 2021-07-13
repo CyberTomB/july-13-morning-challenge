@@ -1,3 +1,8 @@
+/**
+ * 
+ * @param {String} str 
+ * @returns the longest word in the string.
+ */
 function longestWord(str) {
    let arrStr = str.split(" ")
    let arrNums = []
